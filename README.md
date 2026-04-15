@@ -1,4 +1,11 @@
 # Fork: I changed the environment.yaml to the settings that worked on bachman
+I need to install this manually (otherwise it gives errors on mujoco stuff)
+```
+pip install mujoco==2.3.7
+pip install dm-control==1.0.9
+pip install free-mujoco-py==2.1.6
+```
+
 
 # Diffusion Policy
 
