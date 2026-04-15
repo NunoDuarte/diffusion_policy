@@ -1,3 +1,5 @@
+# Fork: I changed the environment.yaml to the settings that worked on bachman
+
 # Diffusion Policy
 
 [[Project page]](https://diffusion-policy.cs.columbia.edu/)
